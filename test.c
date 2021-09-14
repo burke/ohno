@@ -1,10 +1,3 @@
-/*******************************************************************************
- *
- * This snippet is just some test code as a demo. Nothing special to see here.
- * Add or change code as needed for your own learning / testing.
- *
- ******************************************************************************/
-
 #define _GNU_SOURCE
 
 #include <errno.h>
